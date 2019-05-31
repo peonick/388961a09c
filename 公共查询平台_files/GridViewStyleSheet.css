@@ -1,0 +1,101 @@
+﻿/*table间隔行的样式*/
+.GrodViewAlternatingStyle
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #313b45;
+	text-align: left;
+	height: 30px;
+	background-color: #eff7ff;
+	line-height: 20px;
+}
+
+
+/*编辑模式下应用于行的样式*/
+.GrodViewEditRowStyle
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #0073e5;
+	text-align: left;
+	background-color: White;	
+}
+
+
+/*应用于EmptyDataRowTemplate行的样式*/
+.GrodViewEmptyDataRowStyle
+{
+}
+
+
+/*应用于脚注的样式*/
+.GrodViewFooterStyleStyle
+{
+}
+
+
+/*table标题行的样式*/
+.GrodViewHeaderStyle
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align:left;
+	height: 27px;
+	background-color: #2386c3;
+}
+
+
+/*table分页的样式*/
+.GrodViewPagerStyle
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #ffffff;
+	text-align:left;
+	background-color: #2386c3;
+	height: 27px;
+}
+
+
+/*table行的样式*/
+.GrodViewRowStyle
+{
+	font-family: 宋体;
+	color: #313b45;
+	font-size: 12px;
+	text-align: left;
+	background-color: #ffffff;
+	border-width: 1px;
+	height: 30px;
+	border-style: Dashed;
+	line-height: 20px;
+}
+
+
+/*应用于选定行的样式*/
+.GrodViewSelectedRowStyle
+{
+}
+
+
+
+
+
+
+
+
+/*AspNetPager自定义区域*/
+.AspNetPagerCustom
+{
+	padding-right:50px; 
+	padding-top:5px; 
+	color:#000;
+}
+
+/*AspNetPager当前页导航按钮*/
+.AspNetPagerPageButton
+{
+	color:#ff9600;
+}

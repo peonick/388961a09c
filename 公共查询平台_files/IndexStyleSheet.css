@@ -1,0 +1,127 @@
+﻿/*首页内容外框*/
+.divIndexFreground
+{
+	width: 974px;
+}
+
+/*查询div*/
+.divSeach
+{
+	background-color: White;
+	width: 974px;
+	font: 12px 宋体;
+	color: #122a36;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+/*公示公告*/
+.divWhite
+{
+	background-color: White;
+	width: 954px;
+	padding-top: 10px;
+}
+/*公告更多*/
+
+.ss
+{
+	font-family: "宋体";
+	font-size: 12px;
+	color: #32678d;
+	padding-left: 5px;
+	text-decoration: none;
+}
+
+
+/*--公告小标题--*/
+.smallTitle
+{
+	font-family: "宋体";
+	font-size: 13px;
+	color: #2589c7;
+	font-weight: bold;
+	padding-bottom: 10px;
+	text-align: center;
+}
+/*--公告时间--*/
+.GGTime
+{
+	font-family: "宋体";
+	font-size: 13px;
+	color: #2589c7;
+	text-align: center;
+}
+/*--公告内容--*/
+.GGBeiRong
+{
+	font-family: "宋体";
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	padding-left: 70px;
+	padding-right: 70px;
+	line-height: 24px;
+}
+
+/*--公告附件--*/
+.GGLink
+{
+	font-family: "宋体";
+	font-size: 13px;
+	padding-left: 50px;
+	color: #2589c7;
+}
+
+/*--公告附件--*/
+.GGFenYe
+{
+	font-family: "宋体";
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	text-align: right;
+}
+
+/*间隔*/
+.divSpace
+{
+	background-color: White;
+	
+	padding-left: 20px;
+	min-height:30px;
+}
+
+/*前台公示样式
+.divLeft
+{
+	padding-left:100px;
+}*/
+
+/*--首页表格整体样式--*/
+.IndexTableStyle
+{
+	padding-top: 5px;
+	
+	width: 919px;
+}
+
+/*--首页表格标题的样式--*/
+.IndexTableTitle
+{
+	margin-top: 12px;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #2f3340;
+	
+	text-align: right;
+}
+
+/*--首页表格内容样式--*/
+.IndexTableMessage
+{
+	font-family: "宋体";
+	font-size: 12px;
+	color: #5c7093;
+	height: 20px;
+}

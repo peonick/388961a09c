@@ -1,0 +1,74 @@
+﻿/*外框*/
+.divFreground
+{
+	width:994px;
+	background-color:White;
+}
+
+
+/*标题*/
+.divTitle
+{
+	background-color:White;
+	width:994px;
+}
+
+
+/*导航*/
+.divSiteMapPath
+{
+	background-image:url(../Images/SiteMapPath.jpg);
+	width:982px;
+	height:20px;
+	text-align:right;
+	padding-right:12px;
+	font-size:13px;
+	color:#333333;
+	padding-top:5px;
+}
+
+
+/*内容*/
+.divMessage
+{
+	width:994px;
+	text-align:left;
+	font-family:微软雅黑,宋体, Arial;
+	font-size:12px;
+	background-color:White;
+}
+
+
+/*脚注*/
+.divfoot
+{
+	width:994px;
+	text-align:center;
+	font-family:微软雅黑,宋体, Arial;
+	font-size:12px;	
+	padding-top:20px;
+	height:70px;
+	
+	
+}
+/*脚注*/
+.divfootnote
+{
+	background:#ffffff url(../Images/footnote.gif) center 4px no-repeat;
+	height:47px;	
+	
+	margin:0 auto;
+	padding-top:10px;
+}
+
+
+/*超链接*/
+a:link, a:hover, a:active
+{
+	color:#087ac0;
+}
+
+a:visited
+{
+	color:#004c7b;
+}
